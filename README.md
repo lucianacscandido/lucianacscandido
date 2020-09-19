@@ -1,16 +1,13 @@
-### Hi there 👋
+Olá!
 
-<!--
-**lucianacscandido/lucianacscandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Turismóloga de formação e entusiasta de Front-End, com objetivo de me tornar Desenvolvedora. 
 
-Here are some ideas to get you started:
+Atualmente, sou aluna do Projeto Start Latam (parceira entre a Rede Cidadã e Accenture), onde aprendo especificamente as tecnologias base do Front-End. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Estou estudando HTML, CSS, JavaScript, Node.js e React, mas me concentrando nos três primeiros para me ajudar no meu objetivo de ser uma desenvolvedor de Frontend. 
+
+Além disso, procuro meu primeiro emprego na área de tecnologia, para poder aprender cada vez mais e colocar meus conhecimentos em prática!
+
+Para ver meus projetos, basta acessar meu GitHub: https://github.com/mjulialobo
+
