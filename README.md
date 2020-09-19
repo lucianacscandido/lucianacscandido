@@ -9,5 +9,4 @@ Estou estudando HTML, CSS, JavaScript, Node.js e React, mas me concentrando nos 
 
 Além disso, procuro meu primeiro emprego na área de tecnologia, para poder aprender cada vez mais e colocar meus conhecimentos em prática!
 
-Para ver meus projetos, basta acessar meu GitHub: https://github.com/mjulialobo
 
